@@ -10,5 +10,5 @@
 
 作業連結區
 -[HW1](//github.com/Jimchou94/internet-homework/blob/main/%E3%80%8CCopy_of_HW1_%E6%97%A5%E5%B8%B8%E6%94%AF%E5%87%BA%E9%80%9F%E7%AE%97%E8%88%87%E5%88%86%E6%94%A4_ipynb%E3%80%8D%E7%9A%84%E5%89%AF%E6%9C%AC.ipynb)
-
+-[Hw2](https://github.com/Jimchou94/internet-homework/blob/main/%E3%80%8CHW2_%E6%88%90%E7%B8%BE%E4%B8%80%E6%9C%AC%E9%80%9A_Part2_ipynb%E3%80%8D%E7%9A%84%E5%89%AF%E6%9C%AC.ipynb)
 專題連結區
